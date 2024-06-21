@@ -34,5 +34,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Credits
 
 This project was created by [Kerry](https://github.com/hi-tech-AI). If you find it useful, consider [buying me a coffee](https://www.buymeacoffee.com/HITECHAI) to support my work.
-
-<a href="https://www.buymeacoffee.com/HITECHAI"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=HITECHAI&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
